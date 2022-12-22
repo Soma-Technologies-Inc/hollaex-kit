@@ -33,7 +33,7 @@
 		"http": "0.0.0",
 		"install": "0.10.4",
 		"json2csv": "4.5.4",
-		"jsonwebtoken": "7.4.3",
+		"jsonwebtoken": "9.0.0",
 		"latest-version": "5.1.0",
 		"lodash": "4.17.20",
 		"mathjs": "3.20.2",
